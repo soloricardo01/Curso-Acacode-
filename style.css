@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    background: rgb(128, 165, 175);
+}
+
+span{
+    font-size: 3rem;
+    color: rgb(137, 213, 14);
+}
+
+.container {
+    width: 550px;
+    height: 550px;
+    color: red;
+}
+
+.container-one {
+    background: rgb(172, 212, 198);
+    color: #6689ba;
+    
+}
